@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598700344 source:c:\users\asus\documents\work\greader\robot1000\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
